@@ -1,6 +1,5 @@
 flask
 flask-socketio
-gevent
 psycopg2-binary
 werkzeug
 gunicorn
