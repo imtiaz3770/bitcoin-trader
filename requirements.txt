@@ -1,6 +1,7 @@
 flask
 flask-socketio
+gevent
+gevent-websocket
 psycopg2-binary
 werkzeug
 gunicorn
-packaging
